@@ -2,7 +2,7 @@
 
 ## Description
 
-Copay is a Multisig HD Wallet. Copay app holds the extended private keys for the wallet. The private key never leaves the device, so for accessing a wallet funds it is necesary to have the device or a backup of the wallet.
+Copay is a Multisig HD continues Wallet. Copay app holds the extended private keys for the wallet. The private key never leaves the device, so for accessing a wallet funds it is necesary to have the device or a backup of the wallet.
 
 ## Definitions
 
